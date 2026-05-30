@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Loop {
     public static void main(String[] args) {
-        // Contoh While
         int i = 6;
         while (i < 5) {
             System.out.println("The value of i is: " + i);
